@@ -1,0 +1,361 @@
+
+.school{
+    color: darkblue;
+}
+#scl{
+    color: darkgoldenrod;
+}
+body{
+   /* background-image: url("../images/classroom.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;*/
+    background-color:#c8b7a6;
+    
+}
+/* img{
+    width: "410px";
+    height: "250px";
+    border: "3";
+    alt: "School Images";
+    
+} */
+.abc{
+    border: 2px solid #c8b7a6;
+    border-width: 3px;
+    width: 500px;
+    text-align: justify;
+    text-indent: 50px;
+    padding: 20px;
+}
+a
+{
+    text-decoration: none;
+    color: #fff;
+}
+/* p{
+    font-size: large;
+} */
+
+header{
+/* border: 2px solid #000; */
+padding:5px;
+background-size: cover;
+color: #fff;
+text-align: center;
+background-color: 	#00008B;
+text-align: center;
+/* font-size: 2cm; */
+}
+
+.tab
+{
+/* border: 2px solid #000; */
+padding:5px;
+background-size: cover;
+color: #fff;
+text-align: center;
+background-color: #fee36e;
+text-align: center;
+/* font-size: 2cm; */
+}
+body
+{
+    padding: 0;
+    margin: 0;
+}
+
+
+.image
+{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #000;
+}
+.img-1
+{
+    height: 250px;
+    width: 410px;
+    border: 2px solid #000;
+}
+/* .result
+{
+    border-radius: 50%;
+    width: 200cm;
+    height: 200cm;
+    border: 2px solid #000;
+} */
+
+.schoolname
+{
+    text-align: center;
+    font-size: 1cm;
+}
+.sports,.facility,.gallery
+{
+    width: 410px;
+    height: 250px;
+    border: 3px solid #000;
+}
+
+.name
+{
+    text-align: center;
+    font-weight: bold;
+}
+
+.std
+{
+    text-align: center;
+
+}
+
+.logo2
+{
+    width: 150px;
+    height: 150px;
+    padding: 2px;
+}
+
+.sclnm
+{
+    width: 100%; 
+}
+
+.child
+{
+    font-size: 2.5cm;
+    font-family: Monotype Corsiva;
+}
+/* .all
+{
+    text-decoration: none;
+    padding: 10px 15px;
+    margin: 5px 9px;
+    padding:5px;
+    background-size: cover;
+    color:black;
+    text-align: center;
+    background-color: #fee36e;
+    text-align: center;
+    /* size: 50%; */
+
+/* .all:hover
+{
+    background-color: teal;
+} */
+
+/* .all
+{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 10px 15px;
+    margin: 5px 9px;
+    text-transform: capitalize;
+    text-overflow: ellipsis;
+} */
+table {
+    border-collapse: collapse;
+    border: 2px #c8b7a6;
+
+}
+
+tr td {
+    border: 2px #c8b7a6;
+}
+
+.tb {
+    text-align: center;
+}
+.contact
+{
+    
+    text-align: center;
+  
+    
+}
+.form
+{
+    border: #000;
+    
+}
+button:hover
+{
+    background-color: brown;
+    color: #fff;
+}
+button
+{
+    padding: 10px 15px;
+    background-color: teal;
+    color: #fff;
+    border-radius: 5px;
+}
+.notice
+{
+    /* direction:up; */
+    scroll-behavior: 3%;
+    padding: 10px 15px;
+    border-radius: 4px;
+    color: red;
+    background-color: darkgray;
+}
+.factable
+{
+    border: red;
+}
+
+.copyright
+{
+    text-align: center;
+}
+
+.author
+{
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+}
+
+.gmail
+{
+    text-align: center;
+    font-size: small;
+    color:red;
+}
+
+.about
+{
+    width: 100%;
+    height: 100%;
+    
+}
+
+.indeximg
+{
+    border: 2px solid #000;
+    border-width: 3px;
+    padding: 0px;
+    width: 710px;
+    height: 525px;
+}
+
+
+.footer
+{
+    height: 100%;
+    /* border: 2px solid #000; */
+    padding:5px;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    background-color:#00008B;
+    text-align: center;
+    /* font-size: 2cm; */
+}
+
+.class
+{
+    width: 100% !important;
+    height: 50px;
+    color: #fff;
+    padding: 10px;
+}
+
+.icon
+{
+color:#fff;
+}
+.icon:hover
+{
+    color:#f16775;
+}
+
+.footertable
+{
+    width: 1250px;
+    
+}
+.footerlogo
+{
+    width: 150px;
+    height: 150px;
+    padding: 2px;
+}
+
+.footerlink
+{
+    line-height: 1.5;
+    text-align: left;
+    text-decoration: none;
+}
+
+.ficon
+{
+    margin: 20px;
+}
+
+/* .all:hover
+{
+    /* color: teal; 
+    background-color: #f16775;
+    text-decoration: underline;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+} */
+
+.all
+{
+    /* border: 2px solid black; */
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 10px 15px;
+    /* margin: 5px 7.5px; */
+    margin-left: 20px;
+    text-transform: capitalize;
+    text-overflow: ellipsis;
+    background-color: #fee36e;
+    text-align: center;
+    background-size: cover;
+    color:black;
+}
+/* unvisited link */
+.all:link {
+    color: green;
+  }
+  
+  /* visited link */
+.all:visited {
+    color: purple;
+  }
+  
+  /* mouse over link */
+.all:hover {
+    color: red;
+    background-color: #00008B;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  /* selected link */
+.all:active {
+    color:#fff;
+  }
+
+marquee
+{
+    color: black;
+}
+
+.award
+{
+    border: 2px solid #000;
+    width: 800px
+}
+
+.notice
+{
+    border: 2px solid #000;
+    width: 1230px
+}

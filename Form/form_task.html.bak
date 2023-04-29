@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<title>Youtube.com</title>
+</head>
+<body>
+
+<video width="600" height="600" muted controls autoplay>
+<source src="video/Road.mp4" width="" height="" type="video/mp4">
+</video>
+<>
+
+<!--
+<video width="100" height="240" muted controls autoplay>
+<source src="video/videoplayback.mp4" width="" height="" type="video/mp4">
+</video>
+-->
+
+</body>
+</html>

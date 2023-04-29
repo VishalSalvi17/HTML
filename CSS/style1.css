@@ -1,0 +1,32 @@
+/* p,h1
+{
+    color: crimson;
+}
+.abc
+{
+    color: teal;
+}
+.xyz
+{
+    color: tomato;
+}
+#mahi
+{
+    color: turquoise;
+} */
+p,h1
+{
+    color: #fff;
+}
+body
+{
+    /* background-color: yellowgreen; */
+    /* background-color: rgb(70, 50, 255); */
+    /* background-color: rgba(70, 50, 255,0.2); */
+    /* background-color: #ccc; */
+    background-image: url("../img/21.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: bottom center; */
+    background-attachment: fixed;
+}

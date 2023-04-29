@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Gmail Account</h1>
+    <form action="">
+        <div>
+            <label for="username">User Name</label>
+            <input type="text" name="" id="username">
+        </div>
+        <div id="show_error"></div>
+        <br>
+        <div>
+            <label for="password">Password</label>
+            <input type="password" name="" id="password">
+        </div>
+        <br>
+        <div>
+            <label for="cpassword">Confirm Password</label>
+            <input type="password" name="" id="cpassword">
+        </div>
+        <div id="show_password"></div>
+        <br>
+        <input type="submit" name="" id="submit">
+    </form>
+
+
+    <script src="jquery.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#submit").click(function(){
+                var user=$("#username").val();
+                if(user=="")
+                {
+                    $("#show_error").html("**username must be filled");
+                    $("#show_error").css("color","red");
+                    return false;
+                }
+                if((user.length<2)|| (user.length>26))
+                {
+                    $("#show_error").html("**username must be fill 3 and 25 letter");
+                    $("#show_error").css("color","red");
+                    return false;
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>

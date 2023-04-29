@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+<head>
+<title>List Function</title>
+</head>
+<body>
+<h1>Order List of Students</h1>
+<ol type = "1">
+<li>Vishal</li>
+<li>Sandesh</li>
+<li>Manish</li>
+<li>Rahul</li>
+</ol>
+
+<ol type = "A">
+<li>Vishal</li>
+<li>Sandesh</li>
+<li>Manish</li>
+<li>Rahul</li>
+</ol>
+
+<ol type = "a">
+<li>Vishal</li>
+<li>Sandesh</li>
+<li>Manish</li>
+<li>Rahul</li>
+</ol>
+
+<ol type = "i">
+<li>Vishal</li>
+<li>Sandesh</li>
+<li>Manish</li>
+<li>Rahul</li>
+</ol>
+
+<ol type = "I">
+<li>Vishal</li>
+<li>Sandesh</li>
+<li>Manish</li>
+<li>Rahul</li>
+</ol>
+
+<h1>Unorder List of Students</h1>
+<ul>
+<li>Vishal</li>
+<li>Sandesh</li>
+<li>Manish</li>
+<li>Rahul</li>
+</ul>
+
+<ul type = "square">
+<li>Vishal</li>
+<li>Sandesh</li>
+<li>Manish</li>
+<li>Rahul</li>
+</ul>
+
+<ul type = "Circle">
+<li>Vishal</li>
+<li>Sandesh</li>
+<li>Manish</li>
+<li>Rahul</li>
+</ul>
+
+<h1>Defination List</h1>
+<dl>
+<dt>Vishal</dt>
+<dd>Sandesh</dd>
+<ol>
+<li>Vishal and sandesh both are best friends.</li>
+</ol>
+</dl>
+
+
+<video width = "350" height = "300" muted controls autoplay>
+<source src = "video/videoplayback.mp4" width ="" height=""type = "video/mp4">
+</video>
+
+<video width="320" height="240" muted controls autoplay>
+<source src="video/videoplayback.mp4" width="" height="" type="video/mp4">
+</video>
+
+</body>
+</html>
